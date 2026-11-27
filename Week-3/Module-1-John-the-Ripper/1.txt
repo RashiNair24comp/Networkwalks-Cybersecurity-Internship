@@ -1,0 +1,19 @@
+Week 3 – Project Module 1
+Topic: Password Recovery using John the Ripper
+
+Task 1: PDF Hash Extraction
+
+1. Verified John the Ripper installation in Kali Linux.
+2. Located the PDF sample provided in the internship materials.
+3. Used pdf2john to extract the PDF hash.
+4. Saved the extracted hash in pdf_hash.txt.
+
+Status: Completed
+
+Task 2: Password Recovery using John the Ripper
+
+1. Loaded the extracted PDF hash into John the Ripper.
+2. John the Ripper successfully recovered the sample PDF password.
+3. Verified the result using the --show option.
+
+Status: Completed
