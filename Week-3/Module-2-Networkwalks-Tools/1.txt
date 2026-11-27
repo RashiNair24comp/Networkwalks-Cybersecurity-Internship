@@ -1,0 +1,17 @@
+Task 1: Hash Extraction using Networkwalks Hash Calculator
+
+1. Opened the Networkwalks Hash Calculator.
+2. Selected the PDF tab.
+3. Uploaded the internship sample PDF.
+4. Successfully generated the PDF hash.
+
+Status: Completed
+
+Task 2: Networkwalks Password Cracker
+
+1. Entered the extracted PDF hash.
+2. Started the password-cracking process.
+3. The tool returned a message that the password was not found using its current wordlist.
+
+Status: Password not recovered by the online tool.
+Note: The same sample PDF password was successfully recovered using John the Ripper in Module 1.
